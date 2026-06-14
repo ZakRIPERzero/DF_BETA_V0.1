@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DF_BETA_V0.1.sln"
+    "dotnet.defaultSolution": "DF_BETA_V0.1.sln",
+    "dotnet.preferCSharpExtension": true
 }

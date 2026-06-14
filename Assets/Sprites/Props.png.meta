@@ -1,0 +1,1311 @@
+fileFormatVersion: 2
+guid: d98db719dafbf454ba200004811c3182
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 928
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53502464, y: 0.13578987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131722bf83d01f42a7ce80a143acda5
+      internalID: -489749356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 928
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5788021, y: 0.066625595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ebe3ac443651b459c07333f0560622
+      internalID: -291844696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 928
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.52189064, y: 0.07976055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23317cfa79965404ab1284705fea85fe
+      internalID: -233634542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 928
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5437794, y: 0.14133072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231684d8e33fcf4408ed2aadc358d22b
+      internalID: 1339354472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5325184, y: 0.09731245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc06c9af9c10ef4cae9b80728830c56
+      internalID: -1202644944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5135894, y: 0.14671755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf86c5f86cae5540b1f31ec0989c70a
+      internalID: 1705897121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 96
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44312334, y: 0.22651672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc179a8a063aecf42b6e3922355f39c9
+      internalID: -895777950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 864
+        width: 107
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5219839, y: 0.24649772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448fb8e5a5f3c414988626e88dd8336e
+      internalID: 799840011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10309601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20efdd84c4d316c41a6ef252aff0f471
+      internalID: -267591287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_87
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5110855, y: 0.07859516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308bc38e1b0f8d4592efb58c841f2bc
+      internalID: 2067724462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5091982, y: 0.06473827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cc505b40bed7243b85a27591e001c7
+      internalID: 1801303865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_90
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54610825, y: 0.11273575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558061162e76b044885ad6ccaaa0c1a2
+      internalID: -2144115143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.33021355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5764eb8038a8f04c898f413a1bae03a
+      internalID: -1491893168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48951316, y: 0.26729012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79f625d4648f143a7bf729672abf84
+      internalID: -1975370993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb01346f06ac384eb6b73915ee45da7
+      internalID: 1055664349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f867a431dfb44fa7b5de0eab373c7
+      internalID: -1619413531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.51519585, y: 0.16776752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca2cb94e3ab6ba489602b3ac8d0235f
+      internalID: 1428101417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50875664, y: 0.109521866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cebe93742a24104483f2090e89221b2
+      internalID: -571060717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_113
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 800
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.52072334, y: 0.06429672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c20c20bcbb2d4eafb4a1af25ab2e7
+      internalID: -1027225689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 801
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.51474094, y: 0.05554104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef65ae90153b341ad9b489345234e5
+      internalID: 1841148474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_116
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 800
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5294819, y: 0.12791824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b907d24bb33fd449d354aa02e2545b
+      internalID: 1474458203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5461086, y: 0.292511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aba4ca7bf6c924da3da1c2a51b1900
+      internalID: 1456774215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.292511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2bd67d0cea8b0418d8a6d9a686d664
+      internalID: 1411476093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_124
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 771
+        width: 201
+        height: 253
+      alignment: 9
+      pivot: {x: 0.50815105, y: 0.182767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57dd42e75101b44790b075c7838cadd
+      internalID: -730149361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf182d83c733b64b9863c3120e43937
+      internalID: -1280430177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500576282c284da4597927bce138eada
+      internalID: 1008428180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5230541, y: 0.4077816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9839295b2e53145bce4c488c5cf67e
+      internalID: 2046108916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5066643, y: 0.09768295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f875e69b59ed4599db3e79390e016
+      internalID: 793701547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_143
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 736
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49760056, y: 0.037979126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81465551e21cbf742995de4fdee079de
+      internalID: -1216745743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 736
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5376482, y: 0.059500694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1919f3d33d3307c4e84c8547c7fe42a0
+      internalID: 1237513892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_146
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5406456, y: 0.052768707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346519aadd1137045804a0f4c7af8995
+      internalID: -1378612233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.56916296, y: 0.4077816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c19d016f0d0745adcae421f9fb8b9
+      internalID: 796607928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4769454, y: 0.36167336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3114fdb4786e5e344b5a73d62a350b3f
+      internalID: 1681796630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.562763, y: 0.19456291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eae0913fbf0394b96adac44bcffe53
+      internalID: 305759678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41930962, y: 0.15542221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc3f7f05738234492d443579667e6b
+      internalID: 1862033453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.54639006, y: 0.20826276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5630ee974af854ebd8773858d6e95e
+      internalID: -1399245788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4381466, y: 0.15166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c487b7447125c0438e6b61f75ed2613
+      internalID: -1083725063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a79cbad148c004dac2f928b4a9f7c0
+      internalID: -182960992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd420c9db9115e84cb249163df274527
+      internalID: -1749223687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3107c4cd748c14f912054e99258778
+      internalID: -642841503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4929428, y: 0.059360504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcb00d7a2f1ad746b1e12633281fc0a
+      internalID: 797267872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_169
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 672
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47830963, y: 0.036859512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcde2d53b6cbbb47b69240dc11f7d5e
+      internalID: -1615748557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 672
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5400028, y: 0.039388657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456093ba67683de4fa3e92e0ad8835bf
+      internalID: 459893179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_172
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54610825, y: 0.038913727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5100228144a6346b7d28d1603da486
+      internalID: -1114103121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5576358, y: 0.19260852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ea763e4515d44999b6dad36e99b9a
+      internalID: -75337303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20029354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c42983847d3746a79fb36ad4db116
+      internalID: -269473102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_185
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5471153, y: 0.20498593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da08e1bfb7d7e2d4588fa354179d09a6
+      internalID: -528304078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44404316, y: 0.15224838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e5cbb01a1a0d42a8b5bc87667d966
+      internalID: 2097284458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Props_0: -1916172937
+      Props_1: 433571742
+      Props_10: -1768969673
+      Props_100: -1884757137
+      Props_101: 501392050
+      Props_102: -2051718722
+      Props_103: 215106291
+      Props_104: -310922611
+      Props_105: -472550590
+      Props_106: 252408128
+      Props_107: -383737741
+      Props_108: -1525751582
+      Props_109: -363844327
+      Props_11: -502310806
+      Props_110: -1413987159
+      Props_111: 1598469739
+      Props_112: -571060717
+      Props_113: -1027225689
+      Props_114: 1841148474
+      Props_115: 1263354067
+      Props_116: 1474458203
+      Props_117: 1456774215
+      Props_118: -1645999751
+      Props_119: 1411476093
+      Props_12: 1419688114
+      Props_120: 815122214
+      Props_121: -567092369
+      Props_122: 1965672013
+      Props_123: -1834816379
+      Props_124: -730149361
+      Props_125: 385323454
+      Props_126: -1317473452
+      Props_127: -1310108270
+      Props_128: 746420527
+      Props_129: 854894389
+      Props_13: 1070242443
+      Props_130: -1241487701
+      Props_131: -1280430177
+      Props_132: 1008428180
+      Props_133: 2046108916
+      Props_134: 1466916790
+      Props_135: 1954832274
+      Props_136: 1839207189
+      Props_137: -949156670
+      Props_138: 1082735840
+      Props_139: 181121921
+      Props_14: -177965054
+      Props_140: 1075062864
+      Props_141: -192778129
+      Props_142: 793701547
+      Props_143: -1216745743
+      Props_144: 1237513892
+      Props_145: 887557011
+      Props_146: -1378612233
+      Props_147: 796607928
+      Props_148: 1271535376
+      Props_149: 1681796630
+      Props_15: -816996541
+      Props_150: 305759678
+      Props_151: 1814428810
+      Props_152: 1862033453
+      Props_153: -1578613297
+      Props_154: -1399245788
+      Props_155: -2098870397
+      Props_156: -1083725063
+      Props_157: 307085970
+      Props_158: 2104442900
+      Props_159: -1544598221
+      Props_16: 1395425040
+      Props_160: -1694724920
+      Props_161: -182960992
+      Props_162: -1749223687
+      Props_163: -642841503
+      Props_164: 1535897057
+      Props_165: 1163674469
+      Props_166: 1790854812
+      Props_167: -273461442
+      Props_168: 797267872
+      Props_169: -1615748557
+      Props_17: 1633505671
+      Props_170: 459893179
+      Props_171: 375987159
+      Props_172: -1114103121
+      Props_173: -1210041464
+      Props_174: 1417136703
+      Props_175: -293527889
+      Props_176: -1907830028
+      Props_177: 1871194333
+      Props_178: 1282775497
+      Props_179: 50857254
+      Props_18: -777011959
+      Props_180: -2129193375
+      Props_181: -75337303
+      Props_182: 491556930
+      Props_183: -269473102
+      Props_184: 1660418116
+      Props_185: -528304078
+      Props_186: -1073149638
+      Props_187: 2097284458
+      Props_188: 1186738082
+      Props_19: 1710899349
+      Props_2: -51598025
+      Props_20: 1973794
+      Props_21: 686116824
+      Props_22: -203797668
+      Props_23: -293063062
+      Props_24: -1720319091
+      Props_25: 452743072
+      Props_26: 1548716843
+      Props_27: -364006903
+      Props_28: -1128019572
+      Props_29: -1823935731
+      Props_3: -1910697973
+      Props_30: -1776096964
+      Props_31: -548873432
+      Props_32: -470613033
+      Props_33: 249604249
+      Props_34: -1915243286
+      Props_35: -1045695749
+      Props_36: 1179805551
+      Props_37: 86868304
+      Props_38: -515987525
+      Props_39: -455144749
+      Props_4: 93773271
+      Props_40: 1073106402
+      Props_41: -1444718625
+      Props_42: 908506404
+      Props_43: -838394481
+      Props_44: -751898030
+      Props_45: -2139460598
+      Props_46: 1175495235
+      Props_47: 2031233136
+      Props_48: 96532055
+      Props_49: -446215129
+      Props_5: 1005270680
+      Props_50: -489749356
+      Props_51: -291844696
+      Props_52: -233634542
+      Props_53: -984603381
+      Props_54: 1339354472
+      Props_55: 487183707
+      Props_56: 1551658937
+      Props_57: 1818700366
+      Props_58: -833189872
+      Props_59: -1243395193
+      Props_6: -641183768
+      Props_60: 85963347
+      Props_61: -1202644944
+      Props_62: -374222476
+      Props_63: 1705897121
+      Props_64: -159578339
+      Props_65: 948809098
+      Props_66: -761613825
+      Props_67: -390963562
+      Props_68: 1282490699
+      Props_69: -583605674
+      Props_7: -1270582296
+      Props_70: -564970137
+      Props_71: 1160444587
+      Props_72: 435400861
+      Props_73: -1347601154
+      Props_74: -895777950
+      Props_75: 702964820
+      Props_76: -2001540743
+      Props_77: 799840011
+      Props_78: -502066306
+      Props_79: 1700004615
+      Props_8: 1491425148
+      Props_80: 446033543
+      Props_81: 1141119915
+      Props_82: 395971571
+      Props_83: 918885382
+      Props_84: 1445725311
+      Props_85: 258680683
+      Props_86: -267591287
+      Props_87: 2067724462
+      Props_88: 1801303865
+      Props_89: 1092079824
+      Props_9: -1021070683
+      Props_90: -2144115143
+      Props_91: -1491893168
+      Props_92: -1975370993
+      Props_93: 1055664349
+      Props_94: -1619413531
+      Props_95: 1428101417
+      Props_96: 1947010498
+      Props_97: -1872169150
+      Props_98: -178967347
+      Props_99: -1978224571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
