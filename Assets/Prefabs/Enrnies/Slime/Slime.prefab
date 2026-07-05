@@ -149,7 +149,7 @@ MonoBehaviour:
   startingState: 1
   roamingDistanceMax: 7
   roamingDistanceMin: 2
-  roamingTimeMax: 2
+  roamingTimeMax: 6
 --- !u!212 &8035525890500406362
 SpriteRenderer:
   m_ObjectHideFlags: 0

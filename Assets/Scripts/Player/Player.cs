@@ -8,8 +8,9 @@ public class Player : MonoBehaviour
 
 
     [SerializeField] private float moveSpeed = 5f;
+    Vector2 inputVector;
 
-    
+
 
     private Rigidbody2D rb;
 
@@ -24,7 +25,14 @@ public class Player : MonoBehaviour
         
     }
 
-    
+
+
+    private void Update()
+    {
+        inputVector = GameInput.Instance.GetMovementVector();
+    }
+
+
     private void FixedUpdate()
     {
         HandleMovement();
@@ -33,8 +41,6 @@ public class Player : MonoBehaviour
   
    private void HandleMovement()
    {
-        Vector2 inputVector = GameInput.Instance.GetMovementVector();
-       
         rb.MovePosition(rb.position + inputVector * (moveSpeed * Time.fixedDeltaTime));
 
 
